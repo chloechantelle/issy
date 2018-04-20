@@ -1,7 +1,7 @@
 # Issy
 Issy is a barebones startpage intended to have minimal features and be easy on the eyes. It features a real time clock, Google search bar and a hidden menu of links.
 
-![alt text](https://github.com/chloechantelle/blush/blob/master/preview/Issy.gif "Issy Preview")
+![alt text](https://github.com/chloechantelle/issy/blob/master/preview/Issy.gif "Issy Preview")
 
 # Instructions
 <h3>Firefox</h3>
@@ -31,7 +31,9 @@ Install the <a target="_blank" href="https://chrome.google.com/webstore/detail/n
 Search the `style.css` file for the listed colors:
 
 Main background color: `#212121`
+
 Search background colors: `#151515`, `#000`, `#111`
+
 Text color: `#eee`, `#fff`
 
 # Issues
